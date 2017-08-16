@@ -1,5 +1,5 @@
 # WP exceptions management
-This WP plugin intercepts, log and show PHP exceptions in WP.
+This WP plugin intercepts, log and show PHP exceptions in the WP admin.
 
 # How to use the folder /use-this-file-when-necessary
 If some exception makes WP unusable, you can still read the logs using php-log.php (install it into the plugin folder when necessary).
